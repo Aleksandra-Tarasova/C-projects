@@ -1,0 +1,15 @@
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\Example24.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\Example24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\Example24.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\Example24.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\Example24.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\bin\Debug\net8.0\Example24.exe
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\bin\Debug\net8.0\Example24.deps.json
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\bin\Debug\net8.0\Example24.runtimeconfig.json
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\bin\Debug\net8.0\Example24.dll
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\bin\Debug\net8.0\Example24.pdb
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\Example24.dll
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\refint\Example24.dll
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\Example24.pdb
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\Example24.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Рабочий стол\Examples\Example24\obj\Debug\net8.0\ref\Example24.dll
